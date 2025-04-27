@@ -1,0 +1,443 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{alderham-2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f719c221ce7e16e1fca2f39a31cb0910}{%
+           family={Alderham},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Hussain},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7690128256dd2e7f64f801ff4aac909}{%
+           family={Jaha},
+           familyi={J\bibinitperiod},
+           given={E.\bibnamedelimi Sami},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{fullhash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{fullhashraw}{955cd45178ac60d514ec14346ff9be19}
+      \strng{bibnamehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authorbibnamehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authornamehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authorfullhash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authorfullhashraw}{955cd45178ac60d514ec14346ff9be19}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Science, Technology and Engineering Systems Journal}
+      \field{note}{Accessed: December 13, 2024}
+      \field{title}{Improved Candidate-Career Matching using Comparative Semantic Resume Analysis}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.astesj.com/v09/i01/p03/#1639848202927-7c57dd68-5f71
+      \endverb
+      \verb{url}
+      \verb https://www.astesj.com/v09/i01/p03/#1639848202927-7c57dd68-5f71
+      \endverb
+    \endentry
+    \entry{boppana-no-date}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b2ee9b6bbc723d9d0ea61e6d7a6a8d37}{%
+           family={Boppana},
+           familyi={B\bibinitperiod},
+           given={Akhilesh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {State University of New York at Stony Brook}%
+      }
+      \strng{namehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{fullhash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{fullhashraw}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{bibnamehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authorbibnamehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authornamehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authorfullhash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authorfullhashraw}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Enhancing Semantic Search in High-Dimensional Vector Spaces: An analysis of sentence embeddings and indexing strategies}
+    \endentry
+    \entry{gawande-2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4d5f534cb658a4cc2312351e8572541}{%
+           family={Gawande},
+           familyi={G\bibinitperiod},
+           given={Atul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{fullhash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{fullhashraw}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{bibnamehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authorbibnamehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authornamehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authorfullhash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authorfullhashraw}{c4d5f534cb658a4cc2312351e8572541}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{CVViZ Blog, April 30, 2024}
+      \field{title}{How Semantic Search is Being Used in AI Recruitment}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://cvviz.com/blog/how-semantic-search-used-in-recruitment/
+      \endverb
+      \verb{url}
+      \verb https://cvviz.com/blog/how-semantic-search-used-in-recruitment/
+      \endverb
+    \endentry
+    \entry{he-2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=42e3b6f68e69a28ec14af6438de394e8}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Lijie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f105e5f87f5b7a671e53e70c9e8f4cd}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Pengfei},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f05d9c9e818ee4d3fa5c78530f345773}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yitong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5a7e1da5f8e899211f04d84a59d0dd6}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c77a9c20dc8ffd83972fd38aea2ac636}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Shouling},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a63ac2d055d6fa07eb8c9f489de524a}
+      \strng{fullhash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{fullhashraw}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{bibnamehash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{authorbibnamehash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{authornamehash}{5a63ac2d055d6fa07eb8c9f489de524a}
+      \strng{authorfullhash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{authorfullhashraw}{6e124c2cdb358ac6ae8389d428680805}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Processing \& Management}
+      \field{number}{4}
+      \field{title}{Mitigating Privacy Risks in Retrieval-Augmented Generation via Locally Private Entity Perturbation}
+      \field{volume}{62}
+      \field{year}{2025}
+      \field{pages}{104150}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ipm.2025.104150
+      \endverb
+    \endentry
+    \entry{rojas-galeano-2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd6f0dc986a843e5a572a87016d25faf}{%
+           family={Rojas-Galeano},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7d0875eb3d7520ddc3a87b3a83ab6f9}{%
+           family={Posada},
+           familyi={P\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4366325dbaa6a9b627b0c2395285fd24}{%
+           family={Ordoñez},
+           familyi={O\bibinitperiod},
+           given={Edna},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba1413352724b381e476e270242e800c}
+      \strng{fullhash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{fullhashraw}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{bibnamehash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{authorbibnamehash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{authornamehash}{ba1413352724b381e476e270242e800c}
+      \strng{authorfullhash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{authorfullhashraw}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Scientific World Journal}
+      \field{title}{A Bibliometric Perspective on AI Research for Job-Résumé Matching}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1155/2022/8002363
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{alderham-2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f719c221ce7e16e1fca2f39a31cb0910}{%
+           family={Alderham},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Hussain},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7690128256dd2e7f64f801ff4aac909}{%
+           family={Jaha},
+           familyi={J\bibinitperiod},
+           given={E.\bibnamedelimi Sami},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{fullhash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{fullhashraw}{955cd45178ac60d514ec14346ff9be19}
+      \strng{bibnamehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authorbibnamehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authornamehash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authorfullhash}{955cd45178ac60d514ec14346ff9be19}
+      \strng{authorfullhashraw}{955cd45178ac60d514ec14346ff9be19}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Science, Technology and Engineering Systems Journal}
+      \field{note}{Accessed: December 13, 2024}
+      \field{title}{Improved Candidate-Career Matching using Comparative Semantic Resume Analysis}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.astesj.com/v09/i01/p03/#1639848202927-7c57dd68-5f71
+      \endverb
+      \verb{url}
+      \verb https://www.astesj.com/v09/i01/p03/#1639848202927-7c57dd68-5f71
+      \endverb
+    \endentry
+    \entry{boppana-no-date}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b2ee9b6bbc723d9d0ea61e6d7a6a8d37}{%
+           family={Boppana},
+           familyi={B\bibinitperiod},
+           given={Akhilesh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {State University of New York at Stony Brook}%
+      }
+      \strng{namehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{fullhash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{fullhashraw}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{bibnamehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authorbibnamehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authornamehash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authorfullhash}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \strng{authorfullhashraw}{b2ee9b6bbc723d9d0ea61e6d7a6a8d37}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Enhancing Semantic Search in High-Dimensional Vector Spaces: An analysis of sentence embeddings and indexing strategies}
+    \endentry
+    \entry{gawande-2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4d5f534cb658a4cc2312351e8572541}{%
+           family={Gawande},
+           familyi={G\bibinitperiod},
+           given={Atul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{fullhash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{fullhashraw}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{bibnamehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authorbibnamehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authornamehash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authorfullhash}{c4d5f534cb658a4cc2312351e8572541}
+      \strng{authorfullhashraw}{c4d5f534cb658a4cc2312351e8572541}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{CVViZ Blog, April 30, 2024}
+      \field{title}{How Semantic Search is Being Used in AI Recruitment}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://cvviz.com/blog/how-semantic-search-used-in-recruitment/
+      \endverb
+      \verb{url}
+      \verb https://cvviz.com/blog/how-semantic-search-used-in-recruitment/
+      \endverb
+    \endentry
+    \entry{he-2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=42e3b6f68e69a28ec14af6438de394e8}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Lijie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f105e5f87f5b7a671e53e70c9e8f4cd}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Pengfei},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f05d9c9e818ee4d3fa5c78530f345773}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yitong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5a7e1da5f8e899211f04d84a59d0dd6}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c77a9c20dc8ffd83972fd38aea2ac636}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Shouling},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a63ac2d055d6fa07eb8c9f489de524a}
+      \strng{fullhash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{fullhashraw}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{bibnamehash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{authorbibnamehash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{authornamehash}{5a63ac2d055d6fa07eb8c9f489de524a}
+      \strng{authorfullhash}{6e124c2cdb358ac6ae8389d428680805}
+      \strng{authorfullhashraw}{6e124c2cdb358ac6ae8389d428680805}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Processing \& Management}
+      \field{number}{4}
+      \field{title}{Mitigating Privacy Risks in Retrieval-Augmented Generation via Locally Private Entity Perturbation}
+      \field{volume}{62}
+      \field{year}{2025}
+      \field{pages}{104150}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ipm.2025.104150
+      \endverb
+    \endentry
+    \entry{rojas-galeano-2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd6f0dc986a843e5a572a87016d25faf}{%
+           family={Rojas-Galeano},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7d0875eb3d7520ddc3a87b3a83ab6f9}{%
+           family={Posada},
+           familyi={P\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4366325dbaa6a9b627b0c2395285fd24}{%
+           family={Ordoñez},
+           familyi={O\bibinitperiod},
+           given={Edna},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba1413352724b381e476e270242e800c}
+      \strng{fullhash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{fullhashraw}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{bibnamehash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{authorbibnamehash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{authornamehash}{ba1413352724b381e476e270242e800c}
+      \strng{authorfullhash}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \strng{authorfullhashraw}{ac07c6bcc4b1595df0b28ef156ba8cf0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Scientific World Journal}
+      \field{title}{A Bibliometric Perspective on AI Research for Job-Résumé Matching}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1155/2022/8002363
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
