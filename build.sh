@@ -9,3 +9,4 @@ docker run --rm \
   -w /workdir \
   texlive/texlive \
   
+  /bin/bash -c "pdflatex report.tex && biber report && pdflatex report.tex && pdflatex report.tex"
