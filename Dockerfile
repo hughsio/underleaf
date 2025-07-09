@@ -1,6 +1,10 @@
 FROM texlive/texlive:latest
 
-# Install latexmk (if not already included in your texlive image)
-RUN apt-get update && apt-get install -y latexmk
+RUN apt-get update && apt-get install -y \
+    latexmk \
+    biber \
+    && apt-get clean
 
-WORKDIR /data
+WORKDIR /workspace
+
+CMD ["/bin/bash"]
