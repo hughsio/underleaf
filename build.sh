@@ -1,12 +1,11 @@
 #!/bin/bash
+set -e
 
-# Optional: cleanup
-rm -f report.{aux,bbl,bcf,blg,log,run.xml,toc}
+# Compile LaTeX project with biber for bibliography support.
+# Run this from the directory containing your report.tex file.
 
-# Docker compile with biber
 docker run --rm \
-  -v "/Users/hugh/Documents/Senior Project I (FALL 2024)Final Report":/workdir \
+  -v "$(pwd)":/workdir \
   -w /workdir \
   texlive/texlive \
-  
   /bin/bash -c "pdflatex report.tex && biber report && pdflatex report.tex && pdflatex report.tex"
